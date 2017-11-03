@@ -70,9 +70,6 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
-    "after": [
-      "broccoli-asset-rev"
-    ],
     "before": [
       "broccoli-serve-files"
     ]
